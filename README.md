@@ -11,7 +11,7 @@ I’ve developed ThisSide, As my submission for the Swift Student Challenge 2025
 
 Understanding the Purpose Behind ThisSide [here](https://github.com/ayushshrivastv/ThisSide/blob/main/ThisSide.pdf).
 
-## ThisSide
+### ThisSide
 ![ThisSide Icon](https://github.com/ayushshrivastv/ThisSide/blob/main/WelcomeImage.png)
 
 ![ThisSide](https://github.com/ayushshrivastv/ThisSide/blob/main/ThisSide.png)
