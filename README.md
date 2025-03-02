@@ -10,5 +10,13 @@ I’ve developed ThisSide, As my submission for the Swift Student Challenge 2025
 ### ThisSide
 ![ThisSide](https://github.com/ayushshrivastv/ThisSide/blob/main/ThisSide.png)
 
-### ThisSide P2
 ![ThisSide P2](https://github.com/ayushshrivastv/ThisSide/blob/main/ThisSide%20P2.png)
+
+### Technology 
+ThisSide is built using cutting-edge Apple technologies to deliver a seamless and privacy-focused experience..
+
+SwiftUI: Provides a modern, declarative user interface for a smooth and responsive app experience across all Apple devices.
+
+MapKit: Powers real-time location tracking and interactive maps, allowing users to view loved ones’ locations securely and accurately.
+
+HealthKit: Integrates health data, enabling users to monitor key wellness metrics (such as activity levels) for added peace of mind.
