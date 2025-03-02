@@ -49,4 +49,8 @@ ThisSide is a modern, privacy-focused app designed specifically for the iPhone, 
 
 Whether you’re checking in on loved ones or staying connected, it works seamlessly on iOS 18 and takes full advantage of the latest SwiftUI capabilities.
 
+## The Story Behind the App
+
+Understanding the Purpose Behind ThisSide [here](https://github.com/ayushshrivastv/ThisSide/blob/main/ThisSide.pdf).
+
 🎉 That’s it—enjoy exploring ThisSide!
