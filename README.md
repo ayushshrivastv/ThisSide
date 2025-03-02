@@ -8,6 +8,8 @@ I know what it’s like to feel that pang of worry when a loved one doesn’t re
 I’ve developed ThisSide, As my submission for the Swift Student Challenge 2025.
 
 ### ThisSide
+![ThisSide Icon](https://github.com/ayushshrivastv/ThisSide/blob/main/WelcomeImage.png)
+
 ![ThisSide](https://github.com/ayushshrivastv/ThisSide/blob/main/ThisSide.png)
 
 ![ThisSide P2](https://github.com/ayushshrivastv/ThisSide/blob/main/ThisSide%20P2.png)
