@@ -20,3 +20,31 @@ SwiftUI: Provides a modern, declarative user interface for a smooth and responsi
 MapKit: Powers real-time location tracking and interactive maps, allowing users to view loved ones’ locations securely and accurately.
 
 HealthKit: Integrates health data, enabling users to monitor key wellness metrics (such as activity levels) for added peace of mind.
+
+### Let’s kick things off with ThisSide!
+
+Trying out ThisSide is super easy—just follow these simple steps:
+
+1. Grab the Project
+
+ [Click here to download ThisSide.zip](https://github.com/ayushshrivastv/ThisSide/raw/main/ThisSide.zip)
+
+2. Open It in Swift Playgrounds
+
+	•	On macOS:
+	1.	Double-click the ZIP file to unzip it.
+	2.	Launch the Swift Playgrounds app.
+	3.	Go to File > Open and pick the .playground file from the unzipped folder.
+
+	•	On iPadOS:
+	1.	Move the unzipped folder to your iPad (AirDrop works like magic!).
+	2.	Open the Swift Playgrounds app.
+	3.	Tap Open and select the ThisSide project.
+
+### Designed for iPhone 
+
+ThisSide is a modern, privacy-focused app designed specifically for the iPhone, delivering an optimized experience using the latest Apple technologies.
+
+Whether you’re checking in on loved ones or staying connected, it works seamlessly on iOS 18 and takes full advantage of the latest SwiftUI capabilities.
+
+🎉 That’s it—enjoy exploring ThisSide!
