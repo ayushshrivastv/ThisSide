@@ -37,7 +37,7 @@ Trying out ThisSide is super easy—just follow these simple steps:
 
 2. Open It in Swift Playgrounds
 
-	•	On macOS:
+		On macOS:
 	1.	Double-click the ZIP file to unzip it.
 	2.	Launch the Swift Playgrounds app.
 	3.	Go to File > Open and pick the .playground file from the unzipped folder.
