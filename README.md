@@ -18,7 +18,7 @@ Understanding the Purpose Behind ThisSide [here](https://github.com/ayushshrivas
 
 ![ThisSide P2](https://github.com/ayushshrivastv/ThisSide/blob/main/ThisSide%20P2.png)
 
-## Technology 
+### Technology 
 ThisSide is built using cutting-edge Apple technologies to deliver a seamless and privacy-focused experience..
 
 SwiftUI: Provides a modern, declarative user interface for a smooth and responsive app experience across all Apple devices.
