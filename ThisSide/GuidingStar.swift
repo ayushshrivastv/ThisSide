@@ -235,7 +235,7 @@ extension FlashView {
         ]
     }
 }
-
+//flashviewPreviews
 struct FlashView_Previews: PreviewProvider {
     static var previews: some View {
         Group {
