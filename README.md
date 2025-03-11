@@ -27,7 +27,7 @@ MapKit: Powers real-time location tracking and interactive maps, allowing users 
 
 HealthKit: Integrates health data, enabling users to monitor key wellness metrics (such as activity levels) for added peace of mind.
 
-### Let’s kick things off with ThisSide!
+## Let’s kick things off with ThisSide!
 
 Trying out ThisSide is super easy—just follow these simple steps:
 
