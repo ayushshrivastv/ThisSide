@@ -1,4 +1,4 @@
-//UserDataView Data Collection
+// UserDataView Data Collection
 //for now we can bypass the login process 
 import SwiftUI
 import CoreLocation
