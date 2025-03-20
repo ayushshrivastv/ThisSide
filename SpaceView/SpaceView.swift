@@ -5,7 +5,6 @@ import MapKit
 import CoreLocation
 
 //safemode featuring a distress button and helpful guides for first aid and self-defense, so you’re ready for any emergency..
-
 struct SpaceView: View {
     let currentUser: Friend
     @State private var showPopup: Bool = true
@@ -225,7 +224,6 @@ extension CLLocationCoordinate2D: @retroactive Hashable {
         return lhs.latitude == rhs.latitude && lhs.longitude == rhs.longitude
     }
 }
-
 //safe mode features a distress button to alert nearby app users of your location and emergency. It also includes a first aid guide and self-defense tips.
 
 struct SafeModeView: View {
