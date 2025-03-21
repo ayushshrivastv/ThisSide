@@ -1,7 +1,7 @@
 //ThisSide- A Guiding star in a silent night, Distance fades when hearts align. A checkin turns worry to warmth divine, Life's Best moments, are shared in peace, bathed in light. Love is more than being near- It's proving you care, year by year. Through every mile, through night and day, Peace of mind won't drift away. In every call, in every sign, Love remains- a steady line.. 
 
-
 import SwiftUI
+
 //flashview
 struct FlashView: View {
     @State private var currentPage = 0
