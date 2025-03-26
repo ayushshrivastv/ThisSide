@@ -1,7 +1,7 @@
 // UserDataView Data Collection
 //for now we can bypass the login process 
 import SwiftUI
-
+import CoreLocation
 
 //Please use GroupCode "NY8282" to enter demo SpaceView.swift page
 
