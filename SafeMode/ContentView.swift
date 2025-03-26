@@ -1,5 +1,4 @@
 //First Aid guide with common emergencies
-
 import SwiftUI
 
 struct Chapter: Identifiable {
@@ -8,7 +7,7 @@ struct Chapter: Identifiable {
     let icon: String
     let title: String
     let color: Color
-    let destination: AnyView
+    
 }
 
 struct ContentView: View {
