@@ -7,7 +7,7 @@ struct Chapter: Identifiable {
     let icon: String
     let title: String
     let color: Color
-    
+    let destination: AnyView
 }
 
 struct ContentView: View {
