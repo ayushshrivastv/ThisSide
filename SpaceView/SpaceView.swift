@@ -2,7 +2,7 @@
 //for now we can bypass the login process.. 
 import SwiftUI
 import MapKit
-
+import CoreLocation
 
 //safemode featuring a distress button and helpful guides for first aid and self-defense, so you’re ready for any emergency..
 struct SpaceView: View {
