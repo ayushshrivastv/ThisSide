@@ -1,6 +1,5 @@
 //ThisSide
 //for now we can bypass the login process 
-
 import SwiftUI
 
 @main
@@ -17,7 +16,6 @@ struct MyApp: App {
         }
     }
 }
-
 //LoginPage, As per the current requirements, if you click "Login with Apple" it will skip the login process.
 
 //SpaceView.swift is the main file
