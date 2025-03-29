@@ -15,7 +15,8 @@ struct Constants {
     static let popupWidth: CGFloat = 320
     static let popupHeight: CGFloat = 420
     static let shadowRadius: CGFloat = 12
-    
+    static let progressBarHeight: CGFloat = 4
+    static let optionPadding: CGFloat = 15
     static let scenarioPadding: CGFloat = 40
 }
 
