@@ -5,7 +5,6 @@ import SwiftUI
 import AuthenticationServices
 
 //Please use GroupCode "NY8282" to enter demo SpaceView.swift page
-
 struct LoginView: View {
     @State private var email: String = ""
     @State private var password: String = ""
