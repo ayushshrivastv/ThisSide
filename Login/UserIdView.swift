@@ -5,7 +5,9 @@ import CoreLocation
 import UIKit
 
 //location Manager
-
+class LocationManager: NSObject, ObservableObject, CLLocationManagerDelegate {
+    private let locationManager = CLLocationManager()
+    @Published var authorizationStatus: CLAuthorizationStatus
     
     override init() {
         authorizationStatus = locationManager.authorizationStatus
