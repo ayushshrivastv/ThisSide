@@ -5,10 +5,7 @@ import UserNotifications
 import CoreLocation
 
 struct MapView: View {
-    @Binding var cameraPosition: MapCameraPosition
-    let geometry: GeometryProxy
-    let friends: [Friend]
-    @Binding var isPresentingSOS: Bool
+    
     
     var body: some View {
         ZStack(alignment: .topTrailing) {
