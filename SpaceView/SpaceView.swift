@@ -1,5 +1,6 @@
 //SpaceView.swift is the main file with SafeMode!
-//for now we can bypass the login process.. 
+//for now we can bypass the login process.
+
 import SwiftUI
 import MapKit
 import CoreLocation
