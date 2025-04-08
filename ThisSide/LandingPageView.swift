@@ -5,7 +5,8 @@ struct LandingPageView: View {
     @State private var isUserSignedIn = false 
     @State private var showMessage = false 
     @State private var showBanner = false 
-    
+    @State private var animateAll = false 
+    @State private var animateImage = false 
     
     var body: some View {
         NavigationStack {
