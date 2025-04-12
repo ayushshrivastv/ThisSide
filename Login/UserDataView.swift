@@ -318,7 +318,6 @@ struct UserDataView: View {
         }
         return true
     }
-    
     //user entry field
     func userInputField(title: String, text: Binding<String>, placeholder: String) -> some View {
         VStack(alignment: .leading, spacing: 8) {
