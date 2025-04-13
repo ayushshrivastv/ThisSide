@@ -121,7 +121,6 @@ struct MedicalView: View {
             explanation: "Seek emergency medical attention immediately—symptoms suggest a possible brain hemorrhage (subdural hematoma)."
         )
     ]
-    
     var body: some View {
         if showResults {
             ResultsView(
@@ -147,8 +146,7 @@ struct MedicalView: View {
         showExplanation = false
         userAnswers = Array(repeating: nil, count: situations.count)
         showResults = false
-    }
-    
+    } 
     private func advancePage() {
         if currentPage < situations.count - 1 {
             currentPage += 1
