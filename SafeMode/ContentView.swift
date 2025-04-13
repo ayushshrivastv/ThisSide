@@ -337,7 +337,6 @@ struct DepressionView: View {
         .navigationTitle("Depression")
     }
 }
-
 //roadside Emergencies View
 struct RoadsideEmergenciesView: View {
     var body: some View {
@@ -388,7 +387,6 @@ struct RoadsideEmergenciesView: View {
         .navigationTitle("Roadside Emergencies")
     }
 }
-
 //stress View
 struct StressView: View {
     var body: some View {
@@ -439,7 +437,6 @@ struct StressView: View {
         .navigationTitle("Stress")
     }
 }
-
 //Fear View
 struct FearView: View {
     var body: some View {
@@ -490,7 +487,6 @@ struct FearView: View {
         .navigationTitle("Fear")
     }
 }
-
 //Homesickness View
 struct HomesicknessView: View {
     var body: some View {
