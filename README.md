@@ -5,8 +5,6 @@ That’s why I created ThisSide.
 
 I know what it’s like to feel that pang of worry when a loved one doesn’t respond, the uncertainty of not knowing where they are, and the longing for reassurance that they’re safe. ThisSide isn’t just about tracking locations—it’s about staying connected, feeling close, and giving peace of mind, no matter where life takes us.
 
-I’ve developed ThisSide, As my submission for the Swift Student Challenge 2025.
-
 ## The Story Behind the App
 
 Understanding the Purpose Behind ThisSide [here](https://github.com/ayushshrivastv/ThisSide/blob/main/ThisSide.pdf).
