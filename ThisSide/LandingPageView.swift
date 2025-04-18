@@ -56,8 +56,6 @@ struct LandingPageView: View {
                         .delay(0.3),
                         value: animateImage
                     )
-                
-                //headline
                 Text("Where Exploration Meets Connection Start Your Journey with ThisSide!")
                     .font(.system(size: 24, weight: .medium, design: .default))
                     .foregroundColor(.white.opacity(0.7))
@@ -171,7 +169,7 @@ struct LandingPageView: View {
         }
     }
 }
-//preview
+
 struct LandingPageView_Previews: PreviewProvider {
     static var previews: some View {
         LandingPageView()
