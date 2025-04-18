@@ -428,7 +428,6 @@ struct WelcomePopup: View {
                     }
                 
                 VStack(alignment: .leading, spacing: 16) {
-                    
                     //title
                     Text("Welcome to Scenario Based Learning")
                         .font(.title2)
@@ -511,7 +510,6 @@ struct WelcomePopup: View {
         return index < bulletPoints.count ? bulletPoints[index] : ""
     }
 }
-//progress bar
 struct ProgressBar: View {
     let value: Double
     
