@@ -500,7 +500,6 @@ struct WelcomePopup: View {
             .animation(.none, value: isVisible)
         }
     }
-  
     func getBulletText(for index: Int) -> String {
         let bulletPoints = [
             "Step into real scenarios and learn by doing.",
@@ -534,8 +533,6 @@ struct ProgressBar: View {
         .padding(.horizontal)
     }
 }
-
-//preview
 struct SafetyView_Previews: PreviewProvider {
     static var previews: some View {
         NavigationStack {
