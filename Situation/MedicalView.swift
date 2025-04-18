@@ -254,7 +254,6 @@ struct MedicalPopup: View {
             .animation(.none, value: isVisible)
         }
     }
-    
     func getBulletText(for index: Int) -> String {
         switch index {
         case 0: return "Practice real-life medical emergencies in a safe environment."
@@ -265,8 +264,6 @@ struct MedicalPopup: View {
         }
     }
 }
-
-//Preview
 struct MedicalView_Previews: PreviewProvider {
     static var previews: some View {
         NavigationStack {
