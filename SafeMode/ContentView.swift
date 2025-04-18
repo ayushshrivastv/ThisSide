@@ -9,7 +9,6 @@ struct Chapter: Identifiable {
     let color: Color
     let destination: AnyView
 }
-
 struct ContentView: View {
     @Environment(\.presentationMode) var presentationMode
     
@@ -690,7 +689,6 @@ struct SevereBurnsView: View {
         .navigationTitle("Severe Burns")
     }
 }
-
 //heavy Bleeding View
 struct HeavyBleedingView: View {
     var body: some View {
@@ -821,8 +819,6 @@ struct StepView: View {
         .cornerRadius(10)
     }
 }
-
-//preview
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
