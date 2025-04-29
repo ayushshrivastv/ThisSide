@@ -15,7 +15,7 @@ struct SpaceView: View {
             span: MKCoordinateSpan(latitudeDelta: 0.1, longitudeDelta: 0.1)
         )
     )
-    //states defined 
+     
     @State private var isPresentingSOS: Bool = false
     @State private var friends: [Friend] = []
     @State private var searchText: String = ""
@@ -26,7 +26,7 @@ struct SpaceView: View {
     
     @Environment(\.horizontalSizeClass) private var horizontalSizeClass
     @Environment(\.verticalSizeClass) private var verticalSizeClass
-    //body
+    
     var body: some View {
         GeometryReader { geometry in
             ZStack {
@@ -42,15 +42,14 @@ struct SpaceView: View {
                                     .padding(8)
                             }
                         }
-                        //image 
+                         
                         Image("WelcomeImage")
                             .resizable()
                             .scaledToFit()
                             .frame(height: 40)
                         
                         Spacer()
-                        
-                        //avatar 
+                         
                         Image("Avatar")
                             .resizable()
                             .scaledToFill()
