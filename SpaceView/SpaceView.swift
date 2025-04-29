@@ -165,8 +165,6 @@ struct SpaceView: View {
                 ))
         }
     }
-    
-    //safemode 
     private func activateSafetyFeature() {
         isSafeModeActive = true
     }
@@ -225,7 +223,6 @@ extension CLLocationCoordinate2D: @retroactive Hashable {
     }
 }
 //safe mode features a distress button to alert nearby app users of your location and emergency. It also includes a first aid guide and self-defense tips.
-
 struct SafeModeView: View {
     let currentUser: Friend
     @State private var unsafeLocations: [CLLocationCoordinate2D] = []
@@ -271,7 +268,6 @@ struct SafeModeView: View {
                     .frame(height: 400)
                     .cornerRadius(12)
                     .padding()
-                    
                     //safetymessage
                     Text("If you feel unsafe, connect with nearby users for assistance.")
                         .font(.headline)
