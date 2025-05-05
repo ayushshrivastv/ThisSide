@@ -12,7 +12,7 @@ struct CustomPopup: View {
                     .edgesIgnoringSafeArea(.all)
                     .onTapGesture {
                         withAnimation(.easeOut) {
-                            isVisible = false
+                            isVisible = true
                         }
                     }
  
