@@ -13,7 +13,7 @@ struct LoginView: View {
     @State private var errorMessage: String = ""
     @State private var isLoggedIn: Bool = false
     @State private var showMessage: Bool = false
-    @State private var showPopup: Bool = false
+    @State private var showPopup: Bool = true
     
     //demo id for testing purpose
     private let demoEmail = "hello@thisside.com"
